@@ -1,0 +1,76 @@
+Display
+=========
+localhost:3000/dashboard
+page.tsx
+
+
+
+localhost:3000/api/products
+
+route.tsx
+
+
+
+
+What is API ?
+Application Programming Interface
+// task
+
+
+protocal/
+localhost:3000/api/users
+
+
+fcuntion (){
+    fsdfdsfs
+    sdfs
+    fsfsdfsdf
+}
+
+
+Application Programming Interface
+
+UI
+======
+User Interface
+
+
+
+
+https
+=================
+GET
+POST
+PUT/Patch
+DELET
+
+======================
+REST APIs
+axios.put('localhost:3000/api/users/1')
+
+localhost:3000/api/users/1;
+function updateUser(){
+    // delete user
+}
+
+RESTfull APls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
